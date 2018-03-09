@@ -1,3 +1,5 @@
+# This was a part of our project in the Projections 2K18 HackaThon on military.
+
 # Smart-Security-Camera
 IoT Raspberry Pi security camera running open-cv for object detection. The camera will send an email with an image of any objects it detects. It also runs a server that provides a live video stream over the internet.
 
